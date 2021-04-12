@@ -1,0 +1,155 @@
+header h1{padding: 6px;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Georgia, "Times New Roman", serif;
+    display: inline-block;
+    margin-top: 0.2em;
+    background-color: rgba(0, 0, 0, 0.822);
+    margin-left: 10px;
+}
+
+body{background-color: #cf908f;}
+
+ul{top: 0%;
+    background-color: #eb9e98;}
+    
+ul li a{color: black;
+        font-weight: bold;
+        margin-right: 30px;}
+        
+ul li a:hover{color: white;}
+
+#wrapper{background-color:  white;
+            border-style: solid;}
+
+@media (min-width: 600px){
+#wrapper{margin: auto; 
+     width: 85%; }
+}
+
+ul ul {position: absolute;
+        background-color: #c96c65;
+        padding:0;
+        display:none;
+        padding: 15px;}
+        
+    
+ul ul li{display:block;
+            border:2px solid black;
+            margin: 2px;}
+        
+ul ul li a{text-decoration: none; 
+            margin-left: 16px;
+            margin-right: 18px;
+            text-align: center;}
+            
+li:hover ul{display:block;
+            margin-top: 40px;
+            margin-left: 30px;}
+
+footer{font-size: 80%;
+        padding: 15px;
+        color: white;
+        background-color: rgb(39, 39, 39);}
+
+#welcomeText{text-align: center;
+            font-family:  "GillSansInfantW01", Helvetica, sans-serif;
+            font-weight: bold;
+            padding-top: 10px;}
+    
+fieldset{font-weight: 500;
+            padding: 12px;}
+
+label{margin-top: 23px;}
+           
+button{margin-top: 35px;}
+
+button:hover{opacity: 0.8;}
+
+aside{margin: 10px;
+        border: 2px solid black;}
+
+#topic img{margin: 40px 38px;
+                float: left;}
+
+#topic h4{margin-top: 20px;
+            font-family: Georgia, "Times New Roman", serif;
+            font-weight: 600;
+            padding-left: 10px;}
+
+#topic p{padding-left: 10px;
+            font-family: "GillSansInfantW01", Helvetica, sans-serif;
+            font-weight: 500;}
+
+#topic p span{font-weight: 600;}
+
+#rmb{color: red;
+        font-weight: bold;}
+
+.table th{font-size: 20px;}
+
+#contactInfo{font-weight: 500;}
+
+.table{padding: 10px;}
+
+#management{float: right;}
+
+#donationText span{font-weight: bold;}
+
+.media{padding-left: 10px;}
+
+.container a{font-size: 20px;
+                font-weight: 500;}
+
+#remember{margin-top: 26px;}
+
+#cEmail, h5{text-align: center;
+                font-size: small;}
+
+#serviceList{background-color: white;}
+
+#info{background-color: rgb(83, 83, 83);
+        padding: 15px;
+        border-radius: 10px;}
+
+#info p{color: white;}
+
+#home{width: 22px; 
+        height: 22px;
+        margin-left: 167px;
+        margin-top: 8px;}
+
+#phone{width: 25px; 
+        height: 25px;
+        margin-left: 165px;
+        margin-top: 8px;}
+
+#email{width: 35px; 
+        height: 35px;
+        margin-left: 160px;
+        margin-top: 10px;}
+
+#location{width: 28px; 
+                height: 28px;
+                margin-left: 165px;
+                margin-top: 8px;}
+                
+#bank{width: 25px; 
+        height: 25px;
+        margin-left: 167px;
+        margin-top: 10px;}
+        
+#apply{font-weight: bold;}
+
+
+.styleInfo{color: white; 
+                margin-left: 15px;}
+
+
+
+
+
+
+
